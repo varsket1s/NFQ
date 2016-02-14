@@ -1,2 +1,1 @@
 # NFQ
-Rytis Želvys
